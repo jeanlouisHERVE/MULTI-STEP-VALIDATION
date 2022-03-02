@@ -1,4 +1,4 @@
-import React, {useRef, useEffect} from 'react';
+import React, {useRef} from 'react';
 import './SubForm.css';
 
 export default function FoodStyleForm(props) {
